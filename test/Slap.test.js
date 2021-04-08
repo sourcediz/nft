@@ -1,0 +1,1 @@
+const Slap = artifacts.require('/Slap.sol')
